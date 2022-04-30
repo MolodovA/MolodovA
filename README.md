@@ -2,7 +2,7 @@
 
 
 
-![Codewars](https://www.codewars.com/users/MolodovA/badges/small)
+
 
 ## Hi there . I'm a frontend React developer 
 
@@ -19,6 +19,9 @@
 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-331D2F?style=for-the-badge&logo=Telegram)](https://t.me/Molodov_Aleksandr)
+
+
+![Codewars](https://www.codewars.com/users/MolodovA/badges/small)
 
 
 
