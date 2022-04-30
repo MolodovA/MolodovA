@@ -15,7 +15,7 @@
 ![Sass](https://img.shields.io/badge/-SASS-331D2F?style=for-the-badge&logo=Sass)
 
 
-### Follow me (. ❛ ᴗ ❛.)
+### Contact with me
 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-331D2F?style=for-the-badge&logo=Telegram)](https://t.me/Molodov_Aleksandr)
